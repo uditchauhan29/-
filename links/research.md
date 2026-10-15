@@ -5,7 +5,7 @@ title: Research
 
 ## Research
 
-- **[Scan, Pay, Include: Did UPI Adoption Widen Access to Formal Finance in India? (Research Paper)](https://github.com/uditchauhan29/Projects/blob/main/Scan%2C%20Pay%2C%20Include%20Did%20UPI%20Adoption%20Widen%20Access%20to%20Formal%20Finance%20in%20India.docx)**  
+- **[Scan, Pay, Include: Did UPI Adoption Widen Access to Formal Finance in India? (Research Paper)](https://ssrn.com/abstract=7610499)**  
   *Supervisor:* [Dr. Gitanjali Sen](https://snu.edu.in/faculty/gitanjali-sen/) | *Co-author:* [Pratham Mittal](https://in.linkedin.com/in/pratham-mittal-9249b7205)  
   **Abstract:** This paper studies how the rollout of the Unified Payments Interface reshaped formal credit usage across 34 Indian states and union territories from 2012–2024. We construct a continuous treatment measure using average pre-UPI deposits per capita from 2012 to 2015 to capture financial readiness and estimate a heterogeneous difference-in-differences model using credit transactions per capita as the outcome. The results document that UPI led to a statistically significant increase in formal credit activity, with substantially larger impacts in states with deeper pre-existing banking systems. A one-standard-deviation increase in deposit exposure corresponds to roughly a 140 percent rise in post-UPI credit transactions relative to the pre-UPI levels, and event-study tests confirm the absence of differential pre-trends. Overall, UPI amplified existing financial depth by improving digital transaction visibility, suggesting that digital infrastructure is more likely to complement rather than substitute traditional financial development.
 
