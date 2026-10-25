@@ -9,7 +9,6 @@
 - Wrote macro research notes and built charts on inflation, FX, and monetary policy; tracked CPI, GDP, and BoP releases.
 - Compiled a directory of ~15.6K Bloomberg datasets across macro, FX, and other asset classes.
 - Conducted an introductory Bloomberg Terminal workshop for UG, MBA, and MSc students.
----
  
 ### Summer Research Intern
 **[BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/)** | *Jun 2025 – Jul 2025*  
