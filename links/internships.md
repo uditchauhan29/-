@@ -13,7 +13,7 @@
  
 ### Summer Research Intern
 **[BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/)** | *Jun 2025 – Jul 2025*  
-**PI:** [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/)
+**Investigator:** [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/)
  
 - Conducted empirical analysis of Green Total Factor Productivity (GTFP), a key measure of sustainable economic development, for 26 Indian states and UTs over 2011–2022.
 - Used Python to clean and structure the datasets underpinning the analysis.
