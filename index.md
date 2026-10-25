@@ -1,7 +1,7 @@
 ---
 
 
-[CV](/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Research](/links/research.md/) <span style="margin-right: 50px;"></span> [Internships](/links/internships.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/) 
+[CV](/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Research](/links/research.md/) <span style="margin-right: 50px;"></span> [Experience](/links/internships.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/) 
 
 # Hi, I'm Udit 
 
