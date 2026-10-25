@@ -1,8 +1,8 @@
----
+<img width="1075" height="485" alt="image" src="https://github.com/user-attachments/assets/76c71be8-854d-4464-b69d-9ffdd1fbb6ae" />---
 layout: default
-title: Internships
+title: Experience
 ---
-## Internships
+## Experience
 
 # 1. Summer Research Intern (June 2025 - July 2025)  
 **PI:** [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/)
