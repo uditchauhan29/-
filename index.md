@@ -11,6 +11,6 @@ I'm interested in **macroeconomics, monetary policy, and applied econometrics**.
 
 Outside economics, I play cricket, badminton, and tennis. I also like music. 
 
-📫 [udit.chauhan@snu.edu.in](mailto:udit.chauhan@snu.edu.in)
+📫 [chauhanudit125@gmail.com](mailto:chauhanudit125@gmail.com)
 
 **Tools:** Python · STATA · LaTeX · Bloomberg Terminal · Excel · Power BI · Datawrapper
