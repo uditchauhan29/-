@@ -1,4 +1,4 @@
-<img width="1075" height="485" alt="image" src="https://github.com/user-attachments/assets/76c71be8-854d-4464-b69d-9ffdd1fbb6ae" />---
+
 layout: default
 title: Experience
 ---
